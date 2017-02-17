@@ -1,0 +1,3 @@
+C:/Users/Zayd.Qumsieh19/ClionProjects/ArtificialIntelligence/cmake-build-debug/CMakeFiles/ArtificialIntelligence.dir
+C:/Users/Zayd.Qumsieh19/ClionProjects/ArtificialIntelligence/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Zayd.Qumsieh19/ClionProjects/ArtificialIntelligence/cmake-build-debug/CMakeFiles/rebuild_cache.dir
